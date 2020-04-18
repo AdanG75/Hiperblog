@@ -2,17 +2,17 @@ body
 {
     color: #333;
     text-align: left;
-    font-family: "Arial";
+    font-family: "center";
     font-size: 16px;
     margin: 0;
     padding: 0;
 }
-#cointainer
+#container
 {
     width: 70%;
     padding: 1em;
-    text-align: left;
-    border: 1px solid #ADFFFA;
+    text-align: center;
+    border: 1px solid rgb(17, 41, 39);
     margin: 0 auto;
 }
 #container h1
