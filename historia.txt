@@ -4,4 +4,6 @@ El gato es cafe.
 
 Master 1
 
+Master 2
+
 Y aveces el gato se enoja.
